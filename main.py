@@ -9,7 +9,7 @@ print(f'how are you doing today {name}')
 
 # excersise 2 - 5
 
-quote = '"there are no mistakes, only happy acidents"'
+quote = '"there are no mistakes, only happy accidents"'
 bob = 'Bob Ross once said - '
 print(f'{bob}{quote}')
 
